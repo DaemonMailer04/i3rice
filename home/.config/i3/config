@@ -115,7 +115,7 @@ gaps inner 10
 exec_always --no-startup-id picom -b
 
 # Wallpaper
-exec_always --no-startup-id feh --no-fehbg --bg-fill /home/doman/.wallpaper1.png --bg-fill /home/doman/.wallpaper2.png
+exec_always --no-startup-id feh --no-fehbg --bg-fill /home/mailerdaemon/.wallpaper1.png --bg-fill /home/mailerdaemon/.wallpaper2.png
 
 # -------------------------- SHORTCUTS --------------------------
 
