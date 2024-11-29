@@ -1,9 +1,1 @@
-[user]
-    name = zanadoman
-    email = domanseven@gmail.com
-[credential]
-    helper = store
-[pull]
-    rebase = false
-[http]
-    postBuffer = 524288000
+
